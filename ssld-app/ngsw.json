@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1607311152451,
+  "timestamp": 1607921418996,
   "index": "https://ysogabe.github.io/ssld/ssld-app/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://ysogabe.github.io/ssld/ssld-app/favicon.ico",
         "https://ysogabe.github.io/ssld/ssld-app/index.html",
-        "https://ysogabe.github.io/ssld/ssld-app/main.b960e6f19cd54efda903.js",
+        "https://ysogabe.github.io/ssld/ssld-app/main.5a6c341d108bdb3c93fd.js",
         "https://ysogabe.github.io/ssld/ssld-app/manifest.webmanifest",
         "https://ysogabe.github.io/ssld/ssld-app/polyfills.bf99d438b005d57b2b31.js",
         "https://ysogabe.github.io/ssld/ssld-app/runtime.359d5ee4682f20e936e9.js",
@@ -54,8 +54,8 @@
     "https://ysogabe.github.io/ssld/ssld-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://ysogabe.github.io/ssld/ssld-app/assets/icons/marker-red.png": "b60658e5e148c0b422994b9753a3c0de3d642784",
     "https://ysogabe.github.io/ssld/ssld-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://ysogabe.github.io/ssld/ssld-app/index.html": "2defc37ddeeee4f79577c36cc10ff031f4fc8b48",
-    "https://ysogabe.github.io/ssld/ssld-app/main.b960e6f19cd54efda903.js": "63b1c62f5a5e0b9434787e740e9b13837d238a1c",
+    "https://ysogabe.github.io/ssld/ssld-app/index.html": "d88b8143ea5e1b4d353f3def33ab241bc687bd82",
+    "https://ysogabe.github.io/ssld/ssld-app/main.5a6c341d108bdb3c93fd.js": "71a58f00e491388171c8e10640d0be7ef42fe092",
     "https://ysogabe.github.io/ssld/ssld-app/manifest.webmanifest": "e3d8b9cfc97196d3f484526c298c10281968d885",
     "https://ysogabe.github.io/ssld/ssld-app/polyfills.bf99d438b005d57b2b31.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "https://ysogabe.github.io/ssld/ssld-app/runtime.359d5ee4682f20e936e9.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
